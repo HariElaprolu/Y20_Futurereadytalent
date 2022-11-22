@@ -21,6 +21,10 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Project Link: https://orange-dune-0146d0010.2.azurestaticapps.net/services.html
 # Sample images of the project:
-![image](https://user-images.githubusercontent.com/95514435/199056755-6af6f68c-b2a6-4e30-80ce-34e071890e14.png)
-![image](https://user-images.githubusercontent.com/95514435/199056781-9a70f51e-957a-4cbc-b191-b692c38333bc.png)
-![image](https://user-images.githubusercontent.com/95514435/199056848-a262dc0c-4c21-4a91-86fb-d388ff95b4e1.png)
+![image](https://user-images.githubusercontent.com/95514435/203378710-8d42d69a-2480-4cae-bc55-6d53594274dc.png)
+![image](https://user-images.githubusercontent.com/95514435/203378734-8c4368df-126d-40b2-b05d-79a16324aef9.png)
+![image](https://user-images.githubusercontent.com/95514435/203378769-b6cb201f-2cc3-4636-bd4c-5604bae040b4.png)
+![image](https://user-images.githubusercontent.com/95514435/203378816-c5bb788b-9574-4098-89aa-5d5fcfd637ec.png)
+![image](https://user-images.githubusercontent.com/95514435/203378847-1eaa44cd-febb-4fd4-a7a8-6f74d3edba89.png)
+
+
